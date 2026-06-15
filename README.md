@@ -12,4 +12,5 @@
 | [0197-rising-temperature](https://github.com/Vedantt02/Leetcode-database-questions/tree/main/0197-rising-temperature/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/Vedantt02/Leetcode-database-questions/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/Vedantt02/Leetcode-database-questions/tree/main/0577-employee-bonus/) | Easy |
+| [0584-find-customer-referee](https://github.com/Vedantt02/Leetcode-database-questions/tree/main/0584-find-customer-referee/) | Easy |
 <!---LeetCode Topics End-->
