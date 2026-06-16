@@ -13,4 +13,5 @@
 | [0511-game-play-analysis-i](https://github.com/Vedantt02/Leetcode-database-questions/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/Vedantt02/Leetcode-database-questions/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/Vedantt02/Leetcode-database-questions/tree/main/0584-find-customer-referee/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Vedantt02/Leetcode-database-questions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 <!---LeetCode Topics End-->
