@@ -17,15 +17,18 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vedantt02/Leetcode-database-questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/Vedantt02/Leetcode-database-questions/tree/main/0035-search-insert-position/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vedantt02/Leetcode-database-questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vedantt02/Leetcode-database-questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/Vedantt02/Leetcode-database-questions/tree/main/0035-search-insert-position/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vedantt02/Leetcode-database-questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vedantt02/Leetcode-database-questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
