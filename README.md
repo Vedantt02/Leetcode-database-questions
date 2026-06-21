@@ -44,4 +44,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vedantt02/Leetcode-database-questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vedantt02/Leetcode-database-questions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vedantt02/Leetcode-database-questions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vedantt02/Leetcode-database-questions/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
