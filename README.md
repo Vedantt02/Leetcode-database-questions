@@ -55,8 +55,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vedantt02/Leetcode-database-questions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vedantt02/Leetcode-database-questions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vedantt02/Leetcode-database-questions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vedantt02/Leetcode-database-questions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vedantt02/Leetcode-database-questions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 <!---LeetCode Topics End-->
